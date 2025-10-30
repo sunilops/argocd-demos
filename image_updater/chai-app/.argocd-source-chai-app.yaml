@@ -1,4 +1,4 @@
 kustomize:
   images:
   - trainwithshubham/chai-devops:v1.0.3
-  - sunilkumar112/chai-app:v1.0.2
+  - sunilkumar112/chai-app:v1.0.3
